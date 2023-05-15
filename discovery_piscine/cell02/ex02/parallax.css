@@ -1,0 +1,45 @@
+body, html{
+    height: 100%;
+}
+
+.container{
+    padding: 100px;
+    background-color: lightpink;
+    color: rgb(95, 51, 19);
+    text-align: center;
+    font-size: 25px;
+}
+
+.parallax1{
+    background-image: url(https://media.glassdoor.com/sqll/1356025/daiso-squarelogo-1675185415413.png);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax2{
+    background-image: url(https://play-lh.googleusercontent.com/jYcghnGt80Li1yho9l2NcO03M3Or7UysTeZVTz3F39XBZH-K_7VUZzkN0zR8eFmCnw);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax1 p{
+    padding: 450px 40px;
+    margin: 0%;
+    font-size: 30px;
+    text-align: center;
+    color: black;
+}
+.parallax2 p
+{
+    padding: 450px 40px;
+    margin: 0%;
+    font-size: 30px;
+    text-align: center;
+    color: blue;
+}

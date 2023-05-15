@@ -1,0 +1,16 @@
+table{
+    width: 100%;
+}
+
+th {
+    height: 5rem;
+    width: 400px;
+}
+#th1 { 
+    background-color: lightseagreen;
+    width: 50%;
+}
+#th2 {
+    background-color: plum;
+    width: 50%;
+}
